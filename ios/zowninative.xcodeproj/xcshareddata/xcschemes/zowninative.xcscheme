@@ -10,7 +10,8 @@
             buildForTesting = "YES"
             buildForRunning = "YES"
             buildForProfiling = "YES"
-            buildForArchiving = "YES"
+            buildForArchiving = "YES
+"
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
